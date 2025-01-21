@@ -1,4 +1,5 @@
 💫 Acerca de mí:
+
 🔭 Actualmente estoy cursando la carrera de ingenieria informatica.
 👯 Busco colaborar en proyectos de código abierto.
 🌱 Actualmente estoy aprendiendo Golang avanzado y programación de sistemas.
